@@ -1,0 +1,2819 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "25min",
+        "calories": "369calories"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "51min",
+        "calories": "235calories"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "42min",
+        "calories": "438calories"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "36min",
+        "calories": "200calories"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "48min",
+        "calories": "546calories"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "20min",
+        "calories": "387calories"
+    },
+    {
+        "recipe_id": 7,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "36min",
+        "calories": "547calories"
+    },
+    {
+        "recipe_id": 8,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "46min",
+        "calories": "462calories"
+    },
+    {
+        "recipe_id": 9,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "20min",
+        "calories": "490calories"
+    },
+    {
+        "recipe_id": 10,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "50min",
+        "calories": "546calories"
+    },
+    {
+        "recipe_id": 11,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "47min",
+        "calories": "459calories"
+    },
+    {
+        "recipe_id": 12,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "27min",
+        "calories": "580calories"
+    },
+    {
+        "recipe_id": 13,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "42min",
+        "calories": "280calories"
+    },
+    {
+        "recipe_id": 14,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "60min",
+        "calories": "257calories"
+    },
+    {
+        "recipe_id": 15,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "48min",
+        "calories": "309calories"
+    },
+    {
+        "recipe_id": 16,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "53min",
+        "calories": "574calories"
+    },
+    {
+        "recipe_id": 17,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "45min",
+        "calories": "440calories"
+    },
+    {
+        "recipe_id": 18,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "52min",
+        "calories": "510calories"
+    },
+    {
+        "recipe_id": 19,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "48min",
+        "calories": "288calories"
+    },
+    {
+        "recipe_id": 20,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "48min",
+        "calories": "368calories"
+    },
+    {
+        "recipe_id": 21,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "47min",
+        "calories": "434calories"
+    },
+    {
+        "recipe_id": 22,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "53min",
+        "calories": "569calories"
+    },
+    {
+        "recipe_id": 23,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "52min",
+        "calories": "476calories"
+    },
+    {
+        "recipe_id": 24,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "44min",
+        "calories": "525calories"
+    },
+    {
+        "recipe_id": 25,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "30min",
+        "calories": "377calories"
+    },
+    {
+        "recipe_id": 26,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "36min",
+        "calories": "466calories"
+    },
+    {
+        "recipe_id": 27,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "21min",
+        "calories": "587calories"
+    },
+    {
+        "recipe_id": 28,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "56min",
+        "calories": "317calories"
+    },
+    {
+        "recipe_id": 29,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "60min",
+        "calories": "442calories"
+    },
+    {
+        "recipe_id": 30,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "30min",
+        "calories": "477calories"
+    },
+    {
+        "recipe_id": 31,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "37min",
+        "calories": "425calories"
+    },
+    {
+        "recipe_id": 32,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "39min",
+        "calories": "403calories"
+    },
+    {
+        "recipe_id": 33,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "44min",
+        "calories": "309calories"
+    },
+    {
+        "recipe_id": 34,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "28min",
+        "calories": "318calories"
+    },
+    {
+        "recipe_id": 35,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "56min",
+        "calories": "445calories"
+    },
+    {
+        "recipe_id": 36,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "51min",
+        "calories": "599calories"
+    },
+    {
+        "recipe_id": 37,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "57min",
+        "calories": "213calories"
+    },
+    {
+        "recipe_id": 38,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "30min",
+        "calories": "358calories"
+    },
+    {
+        "recipe_id": 39,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "55min",
+        "calories": "251calories"
+    },
+    {
+        "recipe_id": 40,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "58min",
+        "calories": "283calories"
+    },
+    {
+        "recipe_id": 41,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "52min",
+        "calories": "369calories"
+    },
+    {
+        "recipe_id": 42,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "21min",
+        "calories": "514calories"
+    },
+    {
+        "recipe_id": 43,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "24min",
+        "calories": "549calories"
+    },
+    {
+        "recipe_id": 44,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "50min",
+        "calories": "595calories"
+    },
+    {
+        "recipe_id": 45,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "20min",
+        "calories": "231calories"
+    },
+    {
+        "recipe_id": 46,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "44min",
+        "calories": "429calories"
+    },
+    {
+        "recipe_id": 47,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "21min",
+        "calories": "301calories"
+    },
+    {
+        "recipe_id": 48,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "25min",
+        "calories": "385calories"
+    },
+    {
+        "recipe_id": 49,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "39min",
+        "calories": "521calories"
+    },
+    {
+        "recipe_id": 50,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "46min",
+        "calories": "402calories"
+    },
+    {
+        "recipe_id": 51,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "48min",
+        "calories": "566calories"
+    },
+    {
+        "recipe_id": 52,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "50min",
+        "calories": "529calories"
+    },
+    {
+        "recipe_id": 53,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "39min",
+        "calories": "311calories"
+    },
+    {
+        "recipe_id": 54,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "26min",
+        "calories": "525calories"
+    },
+    {
+        "recipe_id": 55,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "29min",
+        "calories": "312calories"
+    },
+    {
+        "recipe_id": 56,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "55min",
+        "calories": "508calories"
+    },
+    {
+        "recipe_id": 57,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "44min",
+        "calories": "478calories"
+    },
+    {
+        "recipe_id": 58,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "44min",
+        "calories": "491calories"
+    },
+    {
+        "recipe_id": 59,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673809798695-e4e0a17fa94e?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "20min",
+        "calories": "244calories"
+    },
+    {
+        "recipe_id": 60,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "35min",
+        "calories": "579calories"
+    },
+    {
+        "recipe_id": 61,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "22min",
+        "calories": "384calories"
+    },
+    {
+        "recipe_id": 62,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "41min",
+        "calories": "208calories"
+    },
+    {
+        "recipe_id": 63,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "22min",
+        "calories": "301calories"
+    },
+    {
+        "recipe_id": 64,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "56min",
+        "calories": "407calories"
+    },
+    {
+        "recipe_id": 65,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "23min",
+        "calories": "255calories"
+    },
+    {
+        "recipe_id": 66,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "34min",
+        "calories": "402calories"
+    },
+    {
+        "recipe_id": 67,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "33min",
+        "calories": "299calories"
+    },
+    {
+        "recipe_id": 68,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "28min",
+        "calories": "589calories"
+    },
+    {
+        "recipe_id": 69,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "55min",
+        "calories": "312calories"
+    },
+    {
+        "recipe_id": 70,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "54min",
+        "calories": "235calories"
+    },
+    {
+        "recipe_id": 71,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "52min",
+        "calories": "294calories"
+    },
+    {
+        "recipe_id": 72,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "27min",
+        "calories": "227calories"
+    },
+    {
+        "recipe_id": 73,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "33min",
+        "calories": "468calories"
+    },
+    {
+        "recipe_id": 74,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "56min",
+        "calories": "210calories"
+    },
+    {
+        "recipe_id": 75,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "40min",
+        "calories": "438calories"
+    },
+    {
+        "recipe_id": 76,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "29min",
+        "calories": "365calories"
+    },
+    {
+        "recipe_id": 77,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "46min",
+        "calories": "593calories"
+    },
+    {
+        "recipe_id": 78,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "20min",
+        "calories": "508calories"
+    },
+    {
+        "recipe_id": 79,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "48min",
+        "calories": "239calories"
+    },
+    {
+        "recipe_id": 80,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "59min",
+        "calories": "546calories"
+    },
+    {
+        "recipe_id": 81,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "53min",
+        "calories": "508calories"
+    },
+    {
+        "recipe_id": 82,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "27min",
+        "calories": "446calories"
+    },
+    {
+        "recipe_id": 83,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "36min",
+        "calories": "234calories"
+    },
+    {
+        "recipe_id": 84,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "35min",
+        "calories": "254calories"
+    },
+    {
+        "recipe_id": 85,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "37min",
+        "calories": "266calories"
+    },
+    {
+        "recipe_id": 86,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "49min",
+        "calories": "251calories"
+    },
+    {
+        "recipe_id": 87,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "29min",
+        "calories": "265calories"
+    },
+    {
+        "recipe_id": 88,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "30min",
+        "calories": "487calories"
+    },
+    {
+        "recipe_id": 89,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "26min",
+        "calories": "574calories"
+    },
+    {
+        "recipe_id": 90,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "44min",
+        "calories": "260calories"
+    },
+    {
+        "recipe_id": 91,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "20min",
+        "calories": "384calories"
+    },
+    {
+        "recipe_id": 92,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "44min",
+        "calories": "326calories"
+    },
+    {
+        "recipe_id": 93,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "46min",
+        "calories": "423calories"
+    },
+    {
+        "recipe_id": 94,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "56min",
+        "calories": "239calories"
+    },
+    {
+        "recipe_id": 95,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "55min",
+        "calories": "440calories"
+    },
+    {
+        "recipe_id": 96,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "27min",
+        "calories": "458calories"
+    },
+    {
+        "recipe_id": 97,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "47min",
+        "calories": "574calories"
+    },
+    {
+        "recipe_id": 98,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "48min",
+        "calories": "321calories"
+    },
+    {
+        "recipe_id": 99,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "32min",
+        "calories": "244calories"
+    },
+    {
+        "recipe_id": 100,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "60min",
+        "calories": "519calories"
+    },
+    {
+        "recipe_id": 101,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "25min",
+        "calories": "474calories"
+    },
+    {
+        "recipe_id": 102,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "46min",
+        "calories": "503calories"
+    },
+    {
+        "recipe_id": 103,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "59min",
+        "calories": "206calories"
+    },
+    {
+        "recipe_id": 104,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "51min",
+        "calories": "497calories"
+    },
+    {
+        "recipe_id": 105,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "22min",
+        "calories": "324calories"
+    },
+    {
+        "recipe_id": 106,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "53min",
+        "calories": "518calories"
+    },
+    {
+        "recipe_id": 107,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "23min",
+        "calories": "366calories"
+    },
+    {
+        "recipe_id": 108,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "43min",
+        "calories": "561calories"
+    },
+    {
+        "recipe_id": 109,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "57min",
+        "calories": "224calories"
+    },
+    {
+        "recipe_id": 110,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673809798695-e4e0a17fa94e?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "38min",
+        "calories": "274calories"
+    },
+    {
+        "recipe_id": 111,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "58min",
+        "calories": "330calories"
+    },
+    {
+        "recipe_id": 112,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "34min",
+        "calories": "293calories"
+    },
+    {
+        "recipe_id": 113,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "57min",
+        "calories": "572calories"
+    },
+    {
+        "recipe_id": 114,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "21min",
+        "calories": "289calories"
+    },
+    {
+        "recipe_id": 115,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "53min",
+        "calories": "572calories"
+    },
+    {
+        "recipe_id": 116,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "54min",
+        "calories": "221calories"
+    },
+    {
+        "recipe_id": 117,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "29min",
+        "calories": "288calories"
+    },
+    {
+        "recipe_id": 118,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "36min",
+        "calories": "597calories"
+    },
+    {
+        "recipe_id": 119,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "21min",
+        "calories": "312calories"
+    },
+    {
+        "recipe_id": 120,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "44min",
+        "calories": "275calories"
+    },
+    {
+        "recipe_id": 121,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "21min",
+        "calories": "286calories"
+    },
+    {
+        "recipe_id": 122,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "27min",
+        "calories": "404calories"
+    },
+    {
+        "recipe_id": 123,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "56min",
+        "calories": "307calories"
+    },
+    {
+        "recipe_id": 124,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "39min",
+        "calories": "371calories"
+    },
+    {
+        "recipe_id": 125,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "60min",
+        "calories": "349calories"
+    },
+    {
+        "recipe_id": 126,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "22min",
+        "calories": "485calories"
+    },
+    {
+        "recipe_id": 127,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "36min",
+        "calories": "224calories"
+    },
+    {
+        "recipe_id": 128,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "45min",
+        "calories": "419calories"
+    },
+    {
+        "recipe_id": 129,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "54min",
+        "calories": "282calories"
+    },
+    {
+        "recipe_id": 130,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "20min",
+        "calories": "296calories"
+    },
+    {
+        "recipe_id": 131,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "39min",
+        "calories": "336calories"
+    },
+    {
+        "recipe_id": 132,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "29min",
+        "calories": "352calories"
+    },
+    {
+        "recipe_id": 133,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "20min",
+        "calories": "365calories"
+    },
+    {
+        "recipe_id": 134,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "57min",
+        "calories": "423calories"
+    },
+    {
+        "recipe_id": 135,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "31min",
+        "calories": "312calories"
+    },
+    {
+        "recipe_id": 136,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=1238&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "34min",
+        "calories": "299calories"
+    },
+    {
+        "recipe_id": 137,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "48min",
+        "calories": "244calories"
+    },
+    {
+        "recipe_id": 138,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "37min",
+        "calories": "567calories"
+    },
+    {
+        "recipe_id": 139,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673809798695-e4e0a17fa94e?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "25min",
+        "calories": "464calories"
+    },
+    {
+        "recipe_id": 140,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "38min",
+        "calories": "260calories"
+    },
+    {
+        "recipe_id": 141,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "46min",
+        "calories": "321calories"
+    },
+    {
+        "recipe_id": 142,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673809798695-e4e0a17fa94e?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "60min",
+        "calories": "280calories"
+    },
+    {
+        "recipe_id": 143,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "22min",
+        "calories": "398calories"
+    },
+    {
+        "recipe_id": 144,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "51min",
+        "calories": "326calories"
+    },
+    {
+        "recipe_id": 145,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "49min",
+        "calories": "241calories"
+    },
+    {
+        "recipe_id": 146,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "44min",
+        "calories": "568calories"
+    },
+    {
+        "recipe_id": 147,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673809798695-e4e0a17fa94e?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "34min",
+        "calories": "443calories"
+    },
+    {
+        "recipe_id": 148,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "49min",
+        "calories": "540calories"
+    },
+    {
+        "recipe_id": 149,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "48min",
+        "calories": "328calories"
+    },
+    {
+        "recipe_id": 150,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "47min",
+        "calories": "473calories"
+    },
+    {
+        "recipe_id": 151,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "54min",
+        "calories": "395calories"
+    },
+    {
+        "recipe_id": 152,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "51min",
+        "calories": "507calories"
+    },
+    {
+        "recipe_id": 153,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "21min",
+        "calories": "346calories"
+    },
+    {
+        "recipe_id": 154,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "41min",
+        "calories": "504calories"
+    },
+    {
+        "recipe_id": 155,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "31min",
+        "calories": "593calories"
+    },
+    {
+        "recipe_id": 156,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "30min",
+        "calories": "480calories"
+    },
+    {
+        "recipe_id": 157,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "30min",
+        "calories": "379calories"
+    },
+    {
+        "recipe_id": 158,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673809798695-e4e0a17fa94e?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "43min",
+        "calories": "432calories"
+    },
+    {
+        "recipe_id": 159,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "38min",
+        "calories": "381calories"
+    },
+    {
+        "recipe_id": 160,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "24min",
+        "calories": "261calories"
+    },
+    {
+        "recipe_id": 161,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "45min",
+        "calories": "327calories"
+    },
+    {
+        "recipe_id": 162,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "20min",
+        "calories": "473calories"
+    },
+    {
+        "recipe_id": 163,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "59min",
+        "calories": "205calories"
+    },
+    {
+        "recipe_id": 164,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "32min",
+        "calories": "308calories"
+    },
+    {
+        "recipe_id": 165,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "24min",
+        "calories": "215calories"
+    },
+    {
+        "recipe_id": 166,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "20min",
+        "calories": "562calories"
+    },
+    {
+        "recipe_id": 167,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "44min",
+        "calories": "278calories"
+    },
+    {
+        "recipe_id": 168,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "60min",
+        "calories": "382calories"
+    },
+    {
+        "recipe_id": 169,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "45min",
+        "calories": "578calories"
+    },
+    {
+        "recipe_id": 170,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "23min",
+        "calories": "560calories"
+    },
+    {
+        "recipe_id": 171,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "23min",
+        "calories": "510calories"
+    },
+    {
+        "recipe_id": 172,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "33min",
+        "calories": "417calories"
+    },
+    {
+        "recipe_id": 173,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "24min",
+        "calories": "237calories"
+    },
+    {
+        "recipe_id": 174,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "43min",
+        "calories": "584calories"
+    },
+    {
+        "recipe_id": 175,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "59min",
+        "calories": "531calories"
+    },
+    {
+        "recipe_id": 176,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "56min",
+        "calories": "451calories"
+    },
+    {
+        "recipe_id": 177,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Lemon Herb Salmon",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "29min",
+        "calories": "337calories"
+    },
+    {
+        "recipe_id": 178,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673809798695-e4e0a17fa94e?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "60min",
+        "calories": "458calories"
+    },
+    {
+        "recipe_id": 179,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "1 cup broccoli",
+            "1 cup carrots",
+            "Soy sauce",
+            "1 tsp ginger"
+        ],
+        "preparation_time": "59min",
+        "calories": "366calories"
+    },
+    {
+        "recipe_id": 180,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Creamy mushroom risotto with Parmesan.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "25min",
+        "calories": "536calories"
+    },
+    {
+        "recipe_id": 181,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "A deliciously spicy grilled chicken perfect for BBQ nights.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "23min",
+        "calories": "385calories"
+    },
+    {
+        "recipe_id": 182,
+        "recipe_image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "33min",
+        "calories": "386calories"
+    },
+    {
+        "recipe_id": 183,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "52min",
+        "calories": "313calories"
+    },
+    {
+        "recipe_id": 184,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Fresh salmon with a lemon herb twist, ideal for a healthy meal.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "30min",
+        "calories": "591calories"
+    },
+    {
+        "recipe_id": 185,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "24min",
+        "calories": "475calories"
+    },
+    {
+        "recipe_id": 186,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Oven-roasted vegetables with a Mediterranean flavor.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "23min",
+        "calories": "348calories"
+    },
+    {
+        "recipe_id": 187,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1674147611133-be87db07f597?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Spicy Grilled Chicken",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "51min",
+        "calories": "375calories"
+    },
+    {
+        "recipe_id": 188,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "37min",
+        "calories": "566calories"
+    },
+    {
+        "recipe_id": 189,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "1 zucchini",
+            "1 bell pepper",
+            "Olive oil",
+            "Rosemary"
+        ],
+        "preparation_time": "34min",
+        "calories": "399calories"
+    },
+    {
+        "recipe_id": 190,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152321-7904acc23d5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "52min",
+        "calories": "496calories"
+    },
+    {
+        "recipe_id": 191,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673580742890-4af144293960?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Crispy stir-fried vegetables for a quick and nutritious dinner.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "45min",
+        "calories": "557calories"
+    },
+    {
+        "recipe_id": 192,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152396-e4841fb5d5f3?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp olive oil",
+            "1 tsp paprika",
+            "Salt and pepper to taste"
+        ],
+        "preparation_time": "43min",
+        "calories": "309calories"
+    },
+    {
+        "recipe_id": 193,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885123-eacbbab4e775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "500g beef mince",
+            "Taco shells",
+            "Tomato salsa",
+            "Avocados"
+        ],
+        "preparation_time": "31min",
+        "calories": "323calories"
+    },
+    {
+        "recipe_id": 194,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "A spicy Thai green curry with tender chicken and veggies.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 chicken breasts",
+            "1 cup cream",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "40min",
+        "calories": "450calories"
+    },
+    {
+        "recipe_id": 195,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Shrimp saut\u00e9ed in garlic butter for a simple yet flavorful dish.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "1/2 cup white wine",
+            "1 cup mushrooms",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "45min",
+        "calories": "501calories"
+    },
+    {
+        "recipe_id": 196,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Mexican-style beef tacos with salsa and guacamole.",
+        "ingredients": [
+            "300g shrimp",
+            "2 cloves garlic",
+            "3 tbsp butter",
+            "Parsley"
+        ],
+        "preparation_time": "37min",
+        "calories": "539calories"
+    },
+    {
+        "recipe_id": 197,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673747885079-6a915d368c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Roasted Vegetables",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "500g beef chunks",
+            "2 potatoes",
+            "2 carrots",
+            "1 onion",
+            "Beef broth"
+        ],
+        "preparation_time": "20min",
+        "calories": "571calories"
+    },
+    {
+        "recipe_id": 198,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152330-77f2f373ce54?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Classic Beef Stew",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "43min",
+        "calories": "538calories"
+    },
+    {
+        "recipe_id": 199,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152367-bcdc04b7e9e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Classic Alfredo sauce served with tender chicken over fettuccine.",
+        "ingredients": [
+            "400g chicken",
+            "1 can coconut milk",
+            "Green curry paste",
+            "Basil leaves"
+        ],
+        "preparation_time": "47min",
+        "calories": "588calories"
+    },
+    {
+        "recipe_id": 200,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1673581152308-591c1645be02?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Hearty beef stew perfect for cold days.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "Fresh dill",
+            "2 tbsp olive oil"
+        ],
+        "preparation_time": "40min",
+        "calories": "320calories"
+    }
+]
